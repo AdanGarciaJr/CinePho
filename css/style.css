@@ -1,0 +1,45 @@
+#logo{
+    width: 75%;
+}
+#footerLogo{
+    max-width: 200px;
+}
+#navi{
+    background-color: #0084D5;
+    list-style: none;
+}
+a{
+    color: white;
+}
+article{
+   
+    margin: 10px;
+    background-color: rgb(226, 226, 226);
+}
+footer{
+    background-color: #0084D5;
+}
+.socials{
+    width: 24px;
+}
+.brand{
+    max-width: 200px;
+}
+h3{
+    color: white;
+}
+#contact li{
+    color: white;
+
+}
+#lessons{
+    border-width: 5px;
+    border-color: black;
+    background-color: rgb(218, 218, 218);
+}
+.photo{
+    width: 200px;
+}
+.blog{
+    width: 200px;
+}
