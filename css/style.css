@@ -52,3 +52,8 @@ h2{
 .bc{
     background-color: #182f3d;
 }
+button{
+    background-color: #0084D5;
+    margin: 1rem;
+    border-color: goldenrod;
+}
